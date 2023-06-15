@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Nattklar</string>
+    <string name="bottomNavBar_news">Nyheter</string>
+    <string name="bottomNavBar_homeScreen">Utforsk</string>
+    <string name="bottomNavBar_globe">Kart</string>
+    <string name="bottomNavBar_wiki">Wiki</string>
+    <string name="dragen_name">Dragen</string>
+    <string name="fiskene_name">Fiskene</string>
+    <string name="karlsvogna_name">Karlsvogna</string>
+    <string name="krepsen_name">Krepsen</string>
+    <string name="skorpionen_name">Skorpionen</string>
+    <string name="skytten_name">Skytten</string>
+    <string name="svanen_name">Svanen</string>
+    <string name="tvillingene_name">Tvillingene</string>
+    <string name="vaeren_name">Væren</string>
+    <string name="dragen_description">Dragen er et stjernebilde mellom Store bjørn og Lille bjørn, nær himmelens nordpol. Hodet tegnes av fire stjerner som danner en skjev firkant. Ifølge araberne er det de fire kamelene som forsvarte Kamelføllet, en svak stjerne midt i firkanten.</string>
+    <string name="fiskene_description">Fiskene er et stjernebilde på den nordlige himmelen, sør for Andromeda og Pegasus. I Fiskene ligger vårjevndøgnspunktet. Stjernebildet ligger i Dyrekretsen.</string>
+    <string name="karlsvogna_description">Karlsvogna er eit stjernemønster (asterisme) som blir danna av dei sju mest lyssterke stjernene i stjernebiletet Store bjørn. Karlsvogna kan brukast som utgangspunkt for å lokalisere andre stjerner og stjernebilete på himmelen.</string>
+    <string name="krepsen_description">Krepsen er et stjernebilde på den nordlige himmelen, mellom Tvillingene og Løven. Krepsen inneholder den åpne stjernehopen Praesepe, som kan sees med det blotte øye.</string>
+    <string name="skorpionen_description">Skorpionen er et stjernebilde ved himmelekvator. Den klareste stjernen er Antares. Stjernebildet inneholder blant annet den åpne stjernehopen Sommerfuglhopen (Messier 6) som er synlig med det blotte øyet.</string>
+    <string name="skytten_description">Skytten er et stort stjernebilde på den sørlige himmelen. Det kommer delvis opp over vår horisont. I Skytten finner vi Melkeveiens sentrum skjult bak mørke, absorberende skyer. Stjernetettheten er meget høy i dette området.</string>
+    <string name="svanen_description">Svanen er et stjernebilde på den nordlige himmelhalvkulen. De fem mest lyssterke stjernene i Svanen danner et kors, som kalles Nordkorset. Stjernen Deneb ligger øverst i korset (i halen på Svanen) og stjernen Albireo er nederst i korset (i nebbet på Svanen).</string>
+    <string name="tvillingene_description">Tvillingene er et stjernebilde på den nordlige himmelen, nord for Lille hund. De klareste stjernene i stjernebildet er Castor og Pollux. Meteorsvermen Geminidene, som har maksimum rundt 13. desember, har radiasjonspunkt i Tvillingene.</string>
+    <string name="vaeren_description">Væren er et stjernebilde på den nordlige himmelen, sør for Andromeda. Den klareste stjernen i stjernebildet er Hámal.</string>
+</resources>
