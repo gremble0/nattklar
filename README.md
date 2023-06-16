@@ -41,6 +41,6 @@
     <p>This screen was developed mostly by Adam and Henriette.</p>
 </div>
 
-<h2>Navigation was largely done by Dawid and Adam and parsing the user's location and general theming of the app was largely done by Herman.</p>
+<p>Navigation was largely done by Dawid and Adam and parsing the user's location and general theming of the app was largely done by Herman.</p>
 
 <h2>Team members:</h2>
