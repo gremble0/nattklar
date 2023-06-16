@@ -44,8 +44,10 @@
 <p>Navigation was largely done by Dawid and Adam and parsing the user's location and general theming of the app was largely done by Herman.</p>
 
 <h2>Team members:</h2>
-Herman
-Adal
-Per Ellef
-Dawid
-Henriette
+<ul>
+    <li>Herman</li>
+    <li>Adam</li>
+    <li>Per Ellef</li>
+    <li>Dawid</li>
+    <li>Henriette</li>
+</ul>
