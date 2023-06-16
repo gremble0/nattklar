@@ -1,5 +1,5 @@
 <h1>Nattklar</h1>
-<p>This is a mirror of the <b><i>Nattklar</i></b> project developed by a team of students at UiO for the course IN2000. Repository used under development is privately stored on UiO's enterprise GitHub</p>
+<p>This is a mirror of the <b><i>Nattklar</i></b> project developed by a team of students at UiO for the course IN2000. Repository used under development is privately stored on UiO's enterprise GitHub. <a href="https://developers.google.com/maps/documentation/android-sdk/get-api-key">To run the app you will need a google maps API key</a>. You then need to provide this API key inside two files: `/project/app/src/main/AndroidManifest.xml` and `/project/app/src/main/java/com/example/nattklar/model/dataprocessing/GoogleMaps.kt`</p>
 
 <p>The app is a stargazing that allows users to see the conditions for how visible constellations for the upcoming nights. The app gets this information by querying MET APIs with parameters from the users location given they give permissions. Otherwise you can manually search for locations in the globescreen. The app also has other functionality such as largely personally written information about common astronomical objects and seeing upcoming and previous astronomical news</p>
 
@@ -44,3 +44,8 @@
 <p>Navigation was largely done by Dawid and Adam and parsing the user's location and general theming of the app was largely done by Herman.</p>
 
 <h2>Team members:</h2>
+Herman
+Adal
+Per Ellef
+Dawid
+Henriette
