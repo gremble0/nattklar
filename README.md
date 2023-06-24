@@ -45,9 +45,10 @@
 
 <h2>Team members:</h2>
 <ul>
-    <li>Herman</li>
-    <li>Adam</li>
-    <li>Per Ellef</li>
+    <li><a href="https://github.com/gremble0">Herman</a></li>
+    <li><a href="https://github.com/Filip-Rasmussen">Filip</a></li>
+    <li><a href="https://github.com/Adam-Karl">Adam</a></li>
+    <li><a href="https://github.com/perellef">Per Ellef</a></li>
     <li>Dawid</li>
     <li>Henriette</li>
 </ul>
